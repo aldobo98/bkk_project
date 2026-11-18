@@ -2,3 +2,5 @@ pandas
 numpy
 tqdm
 ipywidgets
+streamlit
+pydeck
