@@ -1,2 +1,5 @@
 stop_times.txt
 vehicle_updates.csv
+pythonvenv/*
+gtfs/
+vehicle_updates_delays_filtered.csv
